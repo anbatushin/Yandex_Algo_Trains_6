@@ -62,7 +62,7 @@
         </mn>
        </msub>
       </mrow>
-      <annotation encoding="application/x-tex">
+      <annotation encoding="application/la-tex">
        y_2
       </annotation>
      </semantics>
