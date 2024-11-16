@@ -51,7 +51,7 @@
       (<!--l. 60--><math display="inline" style="text-indent: 0em;" xmlns="http://www.w3.org/1998/Math/MathML"><mn>1</mn> <mo>≤</mo>
       <mi>N</mi> <mo>≤</mo> <mn>1</mn><mn>0</mn><mn>0</mn><mspace width="0.3em"><mn>0</mn><mn>0</mn><mn>0</mn></mspace></math>,
       <!--l. 60--><math display="inline" style="text-indent: 0em;" xmlns="http://www.w3.org/1998/Math/MathML"><mn>1</mn> <mo>≤</mo>
-      <mi>K</mi> <mo>≤</mo> <mn>1</mn><msup><mrow><mn>0</mn></mrow><mrow><mn>9</mn></mrow></msup></math>). <!--l. 62-->
+      <mi>K</mi> <mo>≤</mo> <mn>1</mn><msup><mrow><mn>0</mn></mrow><mrow><mn>^9</mn></mrow></msup></math>). <!--l. 62-->
       <p style="text-indent: 0em;">Во второй строке содержится <!--l. 62--><math display="inline" style="text-indent: 0em;" xmlns="http://www.w3.org/1998/Math/MathML"><mi>N</mi></math>
       чисел, задающих номера машин. Номера машин могут принимать значения от <!--l. 62--><math display="inline" style="text-indent:
       0em;" xmlns="http://www.w3.org/1998/Math/MathML"><mn>1</mn></math> до <!--l. 62--><math display="inline" style="text-indent:
