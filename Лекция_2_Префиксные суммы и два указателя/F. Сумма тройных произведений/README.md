@@ -1,8 +1,6 @@
 <div class="problem-statement"><div class="header"><h1 class="title">F. Сумма тройных произведений</h1><table><tr class="time-limit"><td class="property-title">Ограничение времени</td><td>2&nbsp;секунды</td></tr><tr class="memory-limit"><td class="property-title">Ограничение памяти</td><td>512Mb</td></tr><tr class="input-file"><td class="property-title">Ввод</td><td colspan="1">стандартный ввод или input.txt</td></tr><tr class="output-file"><td class="property-title">Вывод</td><td colspan="1">стандартный вывод или output.txt</td></tr></table></div><h2></h2><div class="legend">
     <p>
         Задана последовательность из n чисел aᵢ. Найдите число
-
-<p>&sum;<sub>1 &le; i &lt; j &lt; k &le; n</sub> a<sub>i</sub> ⋅ a<sub>j</sub> ⋅ a<sub>k</sub></p>
 <p>
     $$\sum_{1 \leq i < j < k \leq n} a_i * a_j * a_k$$
 </p>
